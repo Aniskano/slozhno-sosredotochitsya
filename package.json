@@ -1,0 +1,14 @@
+{
+    "name": "slozhno-sosredotochitsya",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "author": "Novikova Anna",
+    "devDependencies": {
+        "vite": "^6.0.5"
+    }
+}
