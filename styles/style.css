@@ -107,13 +107,12 @@
 
 .decorative-rec-icon {
   position: absolute;
-  display: flex;
+  display: none;
   align-items: center;
   gap: 10px;
   color: #ff0070;
   inset-inline-end: calc(var(--padding) + 10px);
   inset-block-start: calc(var(--padding) + 2px);
-  content-visibility: var(--rec-icon-visibility, hidden);
 }
 
 .decorative-rec-icon::after {

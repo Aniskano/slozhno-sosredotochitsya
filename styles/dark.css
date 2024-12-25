@@ -10,6 +10,9 @@
   --menu-color: #ff0070;
   --rec-bracket-color: #ff0070;
   --rec-decoration-color: #ff0070;
-  --rec-icon-visibility: visible;
   --text-color: #f1b2ce;
+}
+
+.page.theme_dark .decorative-rec-icon {
+  display: flex;
 }
