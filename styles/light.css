@@ -8,6 +8,7 @@
   --headers-color: #353430;
   --menu-color: #353430;
   --rec-bracket-color: #353430;
+  --rec-decoration-color: transparent;
   --text-color: #353430;
 }
 
@@ -22,6 +23,7 @@
     --heading-color: #353430;
     --menu-color: #353430;
     --rec-bracket-color: #353430;
+    --rec-decoration-color: transparent;
     --text-color: #353430;
   }
 }
